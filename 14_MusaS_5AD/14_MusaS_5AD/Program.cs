@@ -86,7 +86,7 @@ namespace _14_MusaS_5AD
                 {
                     Console.Clear();
 
-                    Console.WriteLine("Ben je zeker dat je eerste getal een natuurlijke getal is? Probeer opnieuw.");
+                    Console.WriteLine("Ben je zeker dat je tweede getal een natuurlijke getal is? Probeer opnieuw.");
 
                     Console.ReadKey();
                 }
@@ -95,12 +95,12 @@ namespace _14_MusaS_5AD
             {
                 Console.Clear();
 
-                Console.WriteLine("Ben je zeker dat je tweede getal een natuurlijke getal is? Probeer opnieuw.");
+                Console.WriteLine("Ben je zeker dat je eerste getal een natuurlijke getal is? Probeer opnieuw.");
 
                 Console.ReadKey();
             }
 
-            }
         }
+      
     }
 }
